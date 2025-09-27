@@ -18,15 +18,12 @@
 <tr border="none">
 <td width="50%" align="center">
 
-</tr>
-</table>
-</p>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
