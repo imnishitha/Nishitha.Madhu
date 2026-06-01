@@ -1,7 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 align="center">Hi, I'm Nishitha Madhu</h1></summary>
-    <h4 align="center">SWE Co-op @ Phillips | MS in CS @ Northeastern University, Boston | ex-Senior Software Engineer at Biofourmis | 4+ YoE
+    <h4 align="center">Software Engineer @ LangChain | MSCS @ Northeastern University, Boston
   </ul>
 </div>
 
